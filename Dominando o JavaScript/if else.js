@@ -4,7 +4,6 @@
 IF = SE
 ELSE = se nao
 */
-
 // const age = 17
 
 // if(age >= 18){

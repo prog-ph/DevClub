@@ -1,7 +1,6 @@
 /*OPERADORES typeof e delete
 */
 
-
 //------------ TYPE OF  --------------//
 // const myNumber = 20
 // const myString = "Olá, sou uma string"

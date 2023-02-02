@@ -7,5 +7,3 @@
     !== -> TOTALMENTE diferente // Ele verific o tipo do dado
  */
 
-
-    con

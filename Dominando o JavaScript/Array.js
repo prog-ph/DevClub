@@ -1,6 +1,5 @@
 /*
  ARRAY - llista- 
-
 */
 
 // const number = [10, 5, 234, 233]
