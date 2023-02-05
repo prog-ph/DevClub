@@ -14,11 +14,11 @@
 
 //------------ DELETE
 
-const myObject = {
-    name: "Object",
-    age : 20,
-    height: 1.7
-}
+// const myObject = {
+//     name: "Object",
+//     age : 20,
+//     height: 1.7
+// }
 
-delete myObject.name
-console.log(myObject);
+// delete myObject.name
+// console.log(myObject);
