@@ -1,11 +1,21 @@
  /*
     ESTRUTURA DE REPETIÇÃO - FOR OF
 */
+// const name = ["Paulo" , "Sarah", "Miguel"]
 
-let myName = 'Paulo'
-let allNames = ['Sarah', 'Miguel', 'Janaika', 'Edison']
+// for (const allnames of name) {
+//    console.log(name);
+// }
 
-for (let name of allNames) {
-   console.log(myName);
-    
-}
+
+
+
+// class animao {
+//    static belly = [];
+//    eat () { animao.belly.push("food");}
+// }
+
+// let a = new animao ()
+// a.eat( );
+
+// console.log();

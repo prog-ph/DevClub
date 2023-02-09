@@ -11,3 +11,18 @@ ELSE = se nao
 // } else {
 //     console.log("A pessoa è menor de idade");
 // }
+
+function nacional(brasileiro) {
+
+    var nac = document.getElementById("nacionalidade").value;
+
+    var resultado = document.getElementById('resul');
+
+    if (nac == 'brasileiro') {
+        resultado.innerHTML = 'Vocé é brasileiro!';
+
+    }else {
+        resultado.innerHTML = 'Error 404.'
+
+    }
+}
