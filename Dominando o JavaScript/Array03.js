@@ -11,7 +11,7 @@
     // pop
     // shift
 
-const students = ["Paulo", "Miguel", "Sarah", "Edson", "Janaika"]
+//const students = ["Paulo", "Miguel", "Sarah", "Edson", "Janaika"]
 
 //---- Exemplo Splice -----//
 // students.splice(1,2)
