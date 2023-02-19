@@ -9,7 +9,7 @@
 
 */
 
-const numbers = [1,2,3,4]
+const numbers = [1, 2, 3, 4]
 const students = [
   { name: "Paulo", age: 18 },
   { name: "Miguel", age: 15 },
@@ -19,7 +19,16 @@ const students = [
 ];
 
 
-const nerArray = numbers.map( (number) =>{
-  return number * 2
+// const newArray = numbers.map( (number) =>{
+//   return number * 2
+// })
+// console.log(newArray);
+
+const newStudents = students.map((student) => {
+  const newStudent = {
+    name: student.name + ' Da silva',
+  }
+  return newStudent;
 })
-console.log(numbers);
+
+console.log(newStudents)
