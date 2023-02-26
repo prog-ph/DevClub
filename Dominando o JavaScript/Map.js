@@ -9,14 +9,14 @@
 
 */
 
-const numbers = [1, 2, 3, 4]
-const students = [
-  { name: "Paulo", age: 18 },
-  { name: "Miguel", age: 15 },
-  { name: "Sarah", age: 12 },
-  { name: "Pai", age: 37 },
-  { name: "Mae", age: 34 },
-];
+// const numbers = [1, 2, 3, 4]
+// const students = [
+//   { name: "Paulo", age: 18 },
+//   { name: "Miguel", age: 15 },
+//   { name: "Sarah", age: 12 },
+//   { name: "Pai", age: 37 },
+//   { name: "Mae", age: 34 },
+// ];
 
 
 // const newArray = numbers.map( (number) =>{
@@ -24,11 +24,11 @@ const students = [
 // })
 // console.log(newArray);
 
-const newStudents = students.map((student) => {
-  const newStudent = {
-    name: student.name + ' Da silva',
-  }
-  return newStudent;
-})
+// const newStudents = students.map((student) => {
+//   const newStudent = {
+//     name: student.name + ' Da silva',
+//   }
+//   return newStudent;
+// })
 
-console.log(newStudents)
+// console.log(newStudents)

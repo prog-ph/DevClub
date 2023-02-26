@@ -15,27 +15,27 @@
 //     { name: "Carla", vip: false, sector: "Green" },
 //     { name: "Ana", vip: true, sector: "Black" },
 //     { name: "Julio", vip: false, sector: "Green" },
+// // ];
+
+// const student = [
+//     { name: "Rodolfo", testGrade: 7 },
+//     { name: "Maria", testGrade:  0 },
+//     { name: "Joao", testGrade: 8 },
+//     { name: "Bruno", testGrade: 9  },
+//     { name: "Carla", testGrade: 3  },
+//     { name: "Ana", testGrade: 2  },
+//     { name: "Julio", testGrade: 10  },
 // ];
 
-const student = [
-    { name: "Rodolfo", testGrade: 7 },
-    { name: "Maria", testGrade:  0 },
-    { name: "Joao", testGrade: 8 },
-    { name: "Bruno", testGrade: 9  },
-    { name: "Carla", testGrade: 3  },
-    { name: "Ana", testGrade: 2  },
-    { name: "Julio", testGrade: 10  },
-];
-
-const students = [
-    { name: "Rodolfo", finalResult:"approved"},
-    { name: "Maria", finalResult:"disapproved" },
-    { name: "Joao", finalResult:"approved"},
-    { name: "Bruno", finalResult:"approved" },
-    { name: "Carla", finalResult:"disapproved" },
-    { name: "Ana", finalResult:"disapproved" },
-    { name: "Julio", finalResult:"approved" },
-];
+// const students = [
+//     { name: "Rodolfo", finalResult:"approved"},
+//     { name: "Maria", finalResult:"disapproved" },
+//     { name: "Joao", finalResult:"approved"},
+//     { name: "Bruno", finalResult:"approved" },
+//     { name: "Carla", finalResult:"disapproved" },
+//     { name: "Ana", finalResult:"disapproved" },
+//     { name: "Julio", finalResult:"approved" },
+// ];
 
 
 //------------ Resolução -----*///
