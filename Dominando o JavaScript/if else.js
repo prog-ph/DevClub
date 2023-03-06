@@ -4,25 +4,23 @@
 IF = SE
 ELSE = se nao
 */
-// const age = 17
+// const ge = 17;
 
-// if(age >= 18){
+// if (ge >= 18) {
 //     console.log("A pessoa é maior de idade");
 // } else {
-//     console.log("A pessoa è menor de idade");
+//     console.log("A pessoa é menor de idade");
 // }
 
 // function nacional(brasileiro) {
-
 //     var nac = document.getElementById("nacionalidade").value;
-
 //     var resultado = document.getElementById('resul');
 
 //     if (nac == 'brasileiro') {
-//         resultado.innerHTML = 'Vocé é brasileiro!';
-
-//     }else {
-//         resultado.innerHTML = 'Error 404.'
-
+//         resultado.innerHTML = 'Você é brasileiro!';
+//     } else {
+//         resultado.innerHTML = 'Error 404.';
 //     }
 // }
+
+   
